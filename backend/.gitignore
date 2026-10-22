@@ -1,0 +1,33 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache and byte-code
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.so
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Pytest and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local database and uploads
+*.db
+*.sqlite
+*.sqlite3
+uploads/
+test.pdf
+test_dummy.pdf
+test_e2e.pdf
+candidate_dump.json
+pytest_results.txt

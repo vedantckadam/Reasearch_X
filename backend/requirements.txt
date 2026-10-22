@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+PyMuPDF
+spacy
+scikit-learn
+numpy
+scipy
+pytest
+SQLAlchemy
+pydantic
+python-dotenv
+requests
+fpdf2
